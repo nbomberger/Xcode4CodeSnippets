@@ -4,14 +4,18 @@ This is the collection of my user-defined code snippets for Xcode 4. Free feel t
 
 ## Install
 
-* Clone, fork or [download](https://github.com/kirbyt/Xcode4CodeSnippets/zipball/master) this collection of code snippets.
+* Clone, fork or [download](https://github.com/nbomberger/Xcode4CodeSnippets/zipball/master) this collection of code snippets.
 * Copy the code snippet files to: `~/Library/Developer/Xcode/UserData/CodeSnippets`
 
 ### Hint
 
 To make life easier for me, I clone this repo to my CodeSnippets directory. This makes it easier for me to keep this repo up to date and simplifies sharing my code snippets across multiple machines. You can do the same, but I recommend forking this repo first so you can store your own code snippets along with the ones in this collection.
 
+Some of these snippets are from github user kirbyt and others are from this post [Xcode Snippets](http://www.icodeblog.com/2011/12/06/using-xcode-4-snippets/)
+
 # Code Snippet Listing <a id="codesnippetlisting"></a>
+
+This markdown is totally borrowed from kirbyt with small edits.
 
 Each code snippet shortcut is prefixed with **wps** to avoid conflict with other shortcuts. This also groups the code snippets in the Code Completion window.
 ## Synthesize
